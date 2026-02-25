@@ -1,5 +1,6 @@
 [
     {
+        "_id": 1,
         "title": "The Godfather",
         "releaseDate": "1972-03-24T00:00:00Z",
         "genres": ["Crime", "Drama"],
@@ -10,6 +11,7 @@
         "viewCount": 12000
     },
     {
+        "_id": 2,
         "title": "Inception",
         "releaseDate": "2010-07-16T00:00:00Z",
         "genres": ["Sci-Fi", "Thriller"],
@@ -20,6 +22,7 @@
         "viewCount": 15000
     },
     {
+        "_id": 3,
         "title": "The Dark Knight",
         "releaseDate": "2008-07-18T00:00:00Z",
         "genres": ["Action", "Crime"],
@@ -30,6 +33,7 @@
         "viewCount": 20000
     },
     {
+        "_id": 4,
         "title": "Pulp Fiction",
         "releaseDate": "1994-10-14T00:00:00Z",
         "genres": ["Crime", "Drama"],
@@ -40,6 +44,7 @@
         "viewCount": 11000
     },
     {
+        "_id": 5,
         "title": "The Shawshank Redemption",
         "releaseDate": "1994-10-14T00:00:00Z",
         "genres": ["Drama"],
@@ -50,6 +55,7 @@
         "viewCount": 18000
     },
     {
+        "_id": 6,
         "title": "Forrest Gump",
         "releaseDate": "1994-07-06T00:00:00Z",
         "genres": ["Drama", "Romance"],
@@ -60,6 +66,7 @@
         "viewCount": 14000
     },
     {
+        "_id": 7,
         "title": "The Matrix",
         "releaseDate": "1999-03-31T00:00:00Z",
         "genres": ["Sci-Fi", "Action"],
@@ -70,6 +77,7 @@
         "viewCount": 16000
     },
     {
+        "_id": 8,
         "title": "Titanic",
         "releaseDate": "1997-12-19T00:00:00Z",
         "genres": ["Drama", "Romance"],
@@ -80,6 +88,7 @@
         "viewCount": 17000
     },
     {
+        "_id": 9,
         "title": "Gladiator",
         "releaseDate": "2000-05-05T00:00:00Z",
         "genres": ["Action", "Drama"],
@@ -90,6 +99,7 @@
         "viewCount": 13000
     },
     {
+        "_id": 10,
         "title": "Avatar",
         "releaseDate": "2009-12-18T00:00:00Z",
         "genres": ["Sci-Fi", "Adventure"],
