@@ -1,63 +1,123 @@
 [
     {
-        "movieTitle": "The Godfather",
+        "movieId": 1,
         "reviewScore": 10,
         "description": "A masterpiece of crime cinema with impeccable performances and storytelling.",
         "reviewerName": "Roger Ebert"
     },
     {
-        "movieTitle": "Inception",
+        "movieId": 2,
         "reviewScore": 9,
         "description": "A mind-bending exploration of dreams with stunning visuals and depth.",
         "reviewerName": "Peter Travers"
     },
     {
-        "movieTitle": "The Dark Knight",
+        "movieId": 3,
         "reviewScore": 10,
         "description": "A dark, thrilling superhero epic anchored by an unforgettable villain.",
         "reviewerName": "Richard Roeper"
     },
     {
-        "movieTitle": "Pulp Fiction",
+        "movieId": 4,
         "reviewScore": 9,
         "description": "Nonlinear storytelling and sharp dialogue make this a modern classic.",
         "reviewerName": "A.O. Scott"
     },
     {
-        "movieTitle": "The Shawshank Redemption",
+        "movieId": 5,
         "reviewScore": 10,
         "description": "A powerful tale of hope and friendship that resonates deeply.",
         "reviewerName": "Leonard Maltin"
     },
     {
-        "movieTitle": "Forrest Gump",
+        "movieId": 6,
         "reviewScore": 9,
         "description": "A heartwarming journey through history seen through simple wisdom.",
         "reviewerName": "Kenneth Turan"
     },
     {
-        "movieTitle": "The Matrix",
+        "movieId": 7,
         "reviewScore": 10,
         "description": "Revolutionary sci-fi that redefined action and philosophical questions.",
         "reviewerName": "James Berardinelli"
     },
     {
-        "movieTitle": "Titanic",
+        "movieId": 8,
         "reviewScore": 9,
         "description": "A sweeping romance set against a historical tragedy with grand visuals.",
         "reviewerName": "Claudia Puig"
     },
     {
-        "movieTitle": "Gladiator",
+        "movieId": 9,
         "reviewScore": 9,
         "description": "A rousing epic of revenge and honor in ancient Rome.",
         "reviewerName": "Mick LaSalle"
     },
     {
-        "movieTitle": "Avatar",
+        "movieId": 10,
         "reviewScore": 8,
         "description": "A visually stunning sci-fi adventure with environmental themes.",
         "reviewerName": "Owen Gleiberman"
+    },
+    {
+        "movieId": 1,
+        "reviewScore": 8,
+        "description": "Brilliant storytelling and atmosphere, though a bit slow at times.",
+        "reviewerName": "Anna Kowalska"
+    },
+    {
+        "movieId": 2,
+        "reviewScore": 7,
+        "description": "Very creative concept, but slightly confusing on first watch.",
+        "reviewerName": "Michał Nowak"
+    },
+    {
+        "movieId": 3,
+        "reviewScore": 9,
+        "description": "Outstanding performances and intense action scenes.",
+        "reviewerName": "Katarzyna Zielińska"
+    },
+    {
+        "movieId": 4,
+        "reviewScore": 6,
+        "description": "Interesting narrative style, but not for everyone.",
+        "reviewerName": "Tomasz Wiśniewski"
+    },
+    {
+        "movieId": 5,
+        "reviewScore": 10,
+        "description": "Deeply moving and beautifully written story.",
+        "reviewerName": "Magdalena Wójcik"
+    },
+    {
+        "movieId": 6,
+        "reviewScore": 5,
+        "description": "Heartwarming but a bit too sentimental for my taste.",
+        "reviewerName": "Paweł Kamiński"
+    },
+    {
+        "movieId": 7,
+        "reviewScore": 4,
+        "description": "Great effects, but the plot felt overly complicated.",
+        "reviewerName": "Natalia Lewandowska"
+    },
+    {
+        "movieId": 8,
+        "reviewScore": 3,
+        "description": "Visually impressive, yet the romance felt predictable.",
+        "reviewerName": "Krzysztof Dąbrowski"
+    },
+    {
+        "movieId": 9,
+        "reviewScore": 2,
+        "description": "Good action sequences, but lacked emotional depth.",
+        "reviewerName": "Aleksandra Mazur"
+    },
+    {
+        "movieId": 10,
+        "reviewScore": 1,
+        "description": "Amazing visuals, though the story was quite generic.",
+        "reviewerName": "Piotr Kaczmarek"
     }
 ]
 
